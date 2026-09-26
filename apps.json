@@ -26,6 +26,15 @@
       },
       "versions": [
         {
+          "version": "0.1.74",
+          "buildVersion": "74",
+          "date": "2026-09-26T19:09:59Z",
+          "localizedDescription": "- Tax: Singapore estimate + relief tracker (SRS, CPF top-ups, MediSave room, NSman, parents, children, donations) with a 1 Dec reminder; dividends recorded automatically; holding charts at each day's exchange rate\n- Bills add themselves on their due date and merge with the bank's copy; rollover budgets; parity with web",
+          "downloadURL": "https://github.com/jasfertoh/finvio-ios-releases/releases/download/v0.1.74/Finvio.ipa",
+          "size": 7062527,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "0.1.72",
           "buildVersion": "72",
           "date": "2026-09-26T12:55:29Z",
@@ -134,11 +143,11 @@
           "minOSVersion": "18.0"
         }
       ],
-      "version": "0.1.72",
-      "versionDate": "2026-09-26T12:55:29Z",
-      "versionDescription": "- Holding detail page (value since purchase, trades, details, history, \u22ef actions); tap current tab to go to its root; sticky Show less; keyboard: tap outside dismisses, tab bar hides, less bottom space; clearer off switch; square PayNow logo patch",
-      "downloadURL": "https://github.com/jasfertoh/finvio-ios-releases/releases/download/v0.1.72/Finvio.ipa",
-      "size": 6936446
+      "version": "0.1.74",
+      "versionDate": "2026-09-26T19:09:59Z",
+      "versionDescription": "- Tax: Singapore estimate + relief tracker (SRS, CPF top-ups, MediSave room, NSman, parents, children, donations) with a 1 Dec reminder; dividends recorded automatically; holding charts at each day's exchange rate\n- Bills add themselves on their due date and merge with the bank's copy; rollover budgets; parity with web",
+      "downloadURL": "https://github.com/jasfertoh/finvio-ios-releases/releases/download/v0.1.74/Finvio.ipa",
+      "size": 7062527
     }
   ],
   "news": []

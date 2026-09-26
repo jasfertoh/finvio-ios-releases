@@ -26,6 +26,15 @@
       },
       "versions": [
         {
+          "version": "0.1.48",
+          "buildVersion": "48",
+          "date": "2026-09-26T03:19:47Z",
+          "localizedDescription": "- Polish from a simulator pass\n- Layout, account changes, loading states, lighter syncing\n- Refund linking, true amounts, filters, display currency, sticky header; fix receipt library\n- Face ID: stop the relock loop, prompt by itself, choose when it locks",
+          "downloadURL": "https://github.com/jasfertoh/finvio-ios-releases/releases/download/v0.1.48/Finvio.ipa",
+          "size": 5188551,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "0.1.44",
           "buildVersion": "44",
           "date": "2026-09-26T02:52:09Z",
@@ -35,11 +44,11 @@
           "minOSVersion": "18.0"
         }
       ],
-      "version": "0.1.44",
-      "versionDate": "2026-09-26T02:52:09Z",
-      "versionDescription": "- Release to a public SideStore source\n- INSTALL.md: first-run steps, notifications, widgets, Siri\n- Accessibility and motion pass\n- Performance guardrails on three years of heavy data\n- Export splits: a split as CSV, or what someone owes as a message or CSV\n- Edit portfolio and CPF on the phone\n- Fix hide-balances test: no prefs means not hidden\n- Hide balances, synced with the web's setting\n- Read recurring.type like the web\n- Live round-trip test for splits, settling, budgets, bills and goals\n- App icon\n- Reminders, background refresh and widgets\n- Edit collections: create, rename, delete, add and remove transactions\n- Plan tab: budgets, bills, goals, forecast\n- Link incomes as paybacks or refunds; merge a contact into a friend\n- Never recreate a signed-out user's cache\n- Splits tab: people, groups, friends, settle up, split editor\n- Split settling engine and shared IOU mirroring\n- Siri, Shortcuts and home-screen quick actions\n- Real screens: shell, accounts, pay card, settings, notifications\n- Port investment value history; generate card catalog and bank senders\n- Port CPF; test runner that doesn't wait on a lingering xcodebuild\n- Port portfolio maths\n- Port recurring detection and the cash-flow forecast\n- Port dates, card statements, reminders, anomaly, GST/SVC, transfer linking\n- Port split maths and ledger selectors; skip unreadable rows\n- Phase 3: parity harness; parser and categorizer match the web\n- Profile and prefs writes that never drop web-only settings\n- Sign-in, two-factor, Face ID lock, and app wiring\n- Sync shared splits, emails, learned categories and reference data",
-      "downloadURL": "https://github.com/jasfertoh/finvio-ios-releases/releases/download/v0.1.44/Finvio.ipa",
-      "size": 4827247
+      "version": "0.1.48",
+      "versionDate": "2026-09-26T03:19:47Z",
+      "versionDescription": "- Polish from a simulator pass\n- Layout, account changes, loading states, lighter syncing\n- Refund linking, true amounts, filters, display currency, sticky header; fix receipt library\n- Face ID: stop the relock loop, prompt by itself, choose when it locks",
+      "downloadURL": "https://github.com/jasfertoh/finvio-ios-releases/releases/download/v0.1.48/Finvio.ipa",
+      "size": 5188551
     }
   ],
   "news": []

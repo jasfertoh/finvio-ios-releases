@@ -26,6 +26,15 @@
       },
       "versions": [
         {
+          "version": "0.1.64",
+          "buildVersion": "64",
+          "date": "2026-09-26T09:48:00Z",
+          "localizedDescription": "- Statement PDF import: bank/card e-statements read by the new parse-statement function into the import review\n- Share a receipt photo or PDF into Finvio: share extension \u2192 inbox \u2192 scan\n- Apple Pay capture: Log card payment intent for a Shortcuts Wallet automation, merged into the bank's email when it arrives\n- Notes and #tags on transactions (new notes column): edit in place, tag filter, search, export\n- Category rules (shared with the web via prefs) and splitting a purchase across categories\n- Double-charge and price-rise alerts\n- Safe to spend: a Home card, breakdown with chosen accounts, and a widget\n- PayNow request QR (SGQR): a QR for exactly what someone owes you",
+          "downloadURL": "https://github.com/jasfertoh/finvio-ios-releases/releases/download/v0.1.64/Finvio.ipa",
+          "size": 6466691,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "0.1.56",
           "buildVersion": "56",
           "date": "2026-09-26T05:43:07Z",
@@ -80,11 +89,11 @@
           "minOSVersion": "18.0"
         }
       ],
-      "version": "0.1.56",
-      "versionDate": "2026-09-26T05:43:07Z",
-      "versionDescription": "- Test sweep: every screen rendered across data states, scenarios, live round trips; cap oversized refunds",
-      "downloadURL": "https://github.com/jasfertoh/finvio-ios-releases/releases/download/v0.1.56/Finvio.ipa",
-      "size": 6140683
+      "version": "0.1.64",
+      "versionDate": "2026-09-26T09:48:00Z",
+      "versionDescription": "- Statement PDF import: bank/card e-statements read by the new parse-statement function into the import review\n- Share a receipt photo or PDF into Finvio: share extension \u2192 inbox \u2192 scan\n- Apple Pay capture: Log card payment intent for a Shortcuts Wallet automation, merged into the bank's email when it arrives\n- Notes and #tags on transactions (new notes column): edit in place, tag filter, search, export\n- Category rules (shared with the web via prefs) and splitting a purchase across categories\n- Double-charge and price-rise alerts\n- Safe to spend: a Home card, breakdown with chosen accounts, and a widget\n- PayNow request QR (SGQR): a QR for exactly what someone owes you",
+      "downloadURL": "https://github.com/jasfertoh/finvio-ios-releases/releases/download/v0.1.64/Finvio.ipa",
+      "size": 6466691
     }
   ],
   "news": []

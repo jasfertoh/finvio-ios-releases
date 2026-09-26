@@ -26,6 +26,15 @@
       },
       "versions": [
         {
+          "version": "0.1.56",
+          "buildVersion": "56",
+          "date": "2026-09-26T05:43:07Z",
+          "localizedDescription": "- Test sweep: every screen rendered across data states, scenarios, live round trips; cap oversized refunds",
+          "downloadURL": "https://github.com/jasfertoh/finvio-ios-releases/releases/download/v0.1.56/Finvio.ipa",
+          "size": 6140683,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "0.1.55",
           "buildVersion": "55",
           "date": "2026-09-26T05:01:29Z",
@@ -71,11 +80,11 @@
           "minOSVersion": "18.0"
         }
       ],
-      "version": "0.1.55",
-      "versionDate": "2026-09-26T05:01:29Z",
-      "versionDescription": "- Phase 12: reliability and data safety\n- Parity: automation rules match the web's lib/smartLinks.js\n- Phase 10: smart automation",
-      "downloadURL": "https://github.com/jasfertoh/finvio-ios-releases/releases/download/v0.1.55/Finvio.ipa",
-      "size": 6134423
+      "version": "0.1.56",
+      "versionDate": "2026-09-26T05:43:07Z",
+      "versionDescription": "- Test sweep: every screen rendered across data states, scenarios, live round trips; cap oversized refunds",
+      "downloadURL": "https://github.com/jasfertoh/finvio-ios-releases/releases/download/v0.1.56/Finvio.ipa",
+      "size": 6140683
     }
   ],
   "news": []

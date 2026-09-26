@@ -26,6 +26,15 @@
       },
       "versions": [
         {
+          "version": "0.1.70",
+          "buildVersion": "70",
+          "date": "2026-09-26T12:09:28Z",
+          "localizedDescription": "- PayNow QR styled like the real thing: purple modules, PayNow mark in the middle (error correction H); shared image is the styled card",
+          "downloadURL": "https://github.com/jasfertoh/finvio-ios-releases/releases/download/v0.1.70/Finvio.ipa",
+          "size": 6780565,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "0.1.69",
           "buildVersion": "69",
           "date": "2026-09-26T12:00:13Z",
@@ -107,11 +116,11 @@
           "minOSVersion": "18.0"
         }
       ],
-      "version": "0.1.69",
-      "versionDate": "2026-09-26T12:00:13Z",
-      "versionDescription": "- PayNow QR: always include an expiry and mark it dynamic \u2014 banking apps rejected codes without one",
-      "downloadURL": "https://github.com/jasfertoh/finvio-ios-releases/releases/download/v0.1.69/Finvio.ipa",
-      "size": 6773825
+      "version": "0.1.70",
+      "versionDate": "2026-09-26T12:09:28Z",
+      "versionDescription": "- PayNow QR styled like the real thing: purple modules, PayNow mark in the middle (error correction H); shared image is the styled card",
+      "downloadURL": "https://github.com/jasfertoh/finvio-ios-releases/releases/download/v0.1.70/Finvio.ipa",
+      "size": 6780565
     }
   ],
   "news": []

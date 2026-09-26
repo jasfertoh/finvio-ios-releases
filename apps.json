@@ -26,6 +26,15 @@
       },
       "versions": [
         {
+          "version": "0.1.52",
+          "buildVersion": "52",
+          "date": "2026-09-26T04:44:20Z",
+          "localizedDescription": "- Links from Home open on Home's stack, so Back returns to Home",
+          "downloadURL": "https://github.com/jasfertoh/finvio-ios-releases/releases/download/v0.1.52/Finvio.ipa",
+          "size": 5925396,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "0.1.51",
           "buildVersion": "51",
           "date": "2026-09-26T04:16:21Z",
@@ -53,11 +62,11 @@
           "minOSVersion": "18.0"
         }
       ],
-      "version": "0.1.51",
-      "versionDate": "2026-09-26T04:16:21Z",
-      "versionDescription": "- Investment activity and returns, deeper insights\n- Bulk actions, batch split, payee names\n- Phase 8: email rules and inbox, two-factor and sign-in, export/import, delete account, profile photo",
-      "downloadURL": "https://github.com/jasfertoh/finvio-ios-releases/releases/download/v0.1.51/Finvio.ipa",
-      "size": 5905592
+      "version": "0.1.52",
+      "versionDate": "2026-09-26T04:44:20Z",
+      "versionDescription": "- Links from Home open on Home's stack, so Back returns to Home",
+      "downloadURL": "https://github.com/jasfertoh/finvio-ios-releases/releases/download/v0.1.52/Finvio.ipa",
+      "size": 5925396
     }
   ],
   "news": []

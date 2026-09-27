@@ -26,6 +26,15 @@
       },
       "versions": [
         {
+          "version": "0.1.84",
+          "buildVersion": "84",
+          "date": "2026-09-27T16:30:40Z",
+          "localizedDescription": "- Parity fixtures for year/wealth ports\n- Loans: shorter row subtitle\n- Loans: balances today, payoff dates, pay-extra planner (avalanche vs snowball), Wealth row; parity with web\n- Siri: spending this month (optionally by category, against its budget), safe to spend, goal progress, net worth\n- Regular goal saving: monthly amount on a day or payday, added to hand-tracked goals or a reminder for linked ones, on-track status\n- Weekly automatic backups to Files (keep 8), Back up now, settings\n- Merchant renames: rename everywhere (past rows, bills, new transactions), Settings list; web parity\n- Categorisation: history step, whole-word dictionary, cleaned merchant list; Fix categories review (Home + Settings); parity with web",
+          "downloadURL": "https://github.com/jasfertoh/finvio-ios-releases/releases/download/v0.1.84/Finvio.ipa",
+          "size": 7317136,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "0.1.76",
           "buildVersion": "76",
           "date": "2026-09-27T05:33:50Z",
@@ -152,11 +161,11 @@
           "minOSVersion": "18.0"
         }
       ],
-      "version": "0.1.76",
-      "versionDate": "2026-09-27T05:33:50Z",
-      "versionDescription": "- Accounts screen (add any kind, edit, delete with moving transactions/bills/holdings), add investment accounts, edit investment history entries; holding parity with web\n- Parity fixtures and tests for tax and trip against the web",
-      "downloadURL": "https://github.com/jasfertoh/finvio-ios-releases/releases/download/v0.1.76/Finvio.ipa",
-      "size": 7131358
+      "version": "0.1.84",
+      "versionDate": "2026-09-27T16:30:40Z",
+      "versionDescription": "- Parity fixtures for year/wealth ports\n- Loans: shorter row subtitle\n- Loans: balances today, payoff dates, pay-extra planner (avalanche vs snowball), Wealth row; parity with web\n- Siri: spending this month (optionally by category, against its budget), safe to spend, goal progress, net worth\n- Regular goal saving: monthly amount on a day or payday, added to hand-tracked goals or a reminder for linked ones, on-track status\n- Weekly automatic backups to Files (keep 8), Back up now, settings\n- Merchant renames: rename everywhere (past rows, bills, new transactions), Settings list; web parity\n- Categorisation: history step, whole-word dictionary, cleaned merchant list; Fix categories review (Home + Settings); parity with web",
+      "downloadURL": "https://github.com/jasfertoh/finvio-ios-releases/releases/download/v0.1.84/Finvio.ipa",
+      "size": 7317136
     }
   ],
   "news": []

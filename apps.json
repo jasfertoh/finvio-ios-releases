@@ -26,6 +26,15 @@
       },
       "versions": [
         {
+          "version": "0.1.85",
+          "buildVersion": "85",
+          "date": "2026-09-27T22:34:31Z",
+          "localizedDescription": "- Actions in the header on child screens (transaction, account, person, collection, cash, cards, investments, loans, rules); time spans in days/weeks/months/years",
+          "downloadURL": "https://github.com/jasfertoh/finvio-ios-releases/releases/download/v0.1.85/Finvio.ipa",
+          "size": 7330866,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "0.1.84",
           "buildVersion": "84",
           "date": "2026-09-27T16:30:40Z",
@@ -161,11 +170,11 @@
           "minOSVersion": "18.0"
         }
       ],
-      "version": "0.1.84",
-      "versionDate": "2026-09-27T16:30:40Z",
-      "versionDescription": "- Parity fixtures for year/wealth ports\n- Loans: shorter row subtitle\n- Loans: balances today, payoff dates, pay-extra planner (avalanche vs snowball), Wealth row; parity with web\n- Siri: spending this month (optionally by category, against its budget), safe to spend, goal progress, net worth\n- Regular goal saving: monthly amount on a day or payday, added to hand-tracked goals or a reminder for linked ones, on-track status\n- Weekly automatic backups to Files (keep 8), Back up now, settings\n- Merchant renames: rename everywhere (past rows, bills, new transactions), Settings list; web parity\n- Categorisation: history step, whole-word dictionary, cleaned merchant list; Fix categories review (Home + Settings); parity with web",
-      "downloadURL": "https://github.com/jasfertoh/finvio-ios-releases/releases/download/v0.1.84/Finvio.ipa",
-      "size": 7317136
+      "version": "0.1.85",
+      "versionDate": "2026-09-27T22:34:31Z",
+      "versionDescription": "- Actions in the header on child screens (transaction, account, person, collection, cash, cards, investments, loans, rules); time spans in days/weeks/months/years",
+      "downloadURL": "https://github.com/jasfertoh/finvio-ios-releases/releases/download/v0.1.85/Finvio.ipa",
+      "size": 7330866
     }
   ],
   "news": []

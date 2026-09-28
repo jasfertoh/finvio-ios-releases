@@ -26,6 +26,15 @@
       },
       "versions": [
         {
+          "version": "0.1.87",
+          "buildVersion": "87",
+          "date": "2026-09-28T05:29:00Z",
+          "localizedDescription": "- Script to re-sign the .ipa with a development certificate and profile (bundle id from the profile)\n- Header Edit buttons are a pencil icon",
+          "downloadURL": "https://github.com/jasfertoh/finvio-ios-releases/releases/download/v0.1.87/Finvio.ipa",
+          "size": 7330858,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "0.1.85",
           "buildVersion": "85",
           "date": "2026-09-27T22:34:31Z",
@@ -170,11 +179,11 @@
           "minOSVersion": "18.0"
         }
       ],
-      "version": "0.1.85",
-      "versionDate": "2026-09-27T22:34:31Z",
-      "versionDescription": "- Actions in the header on child screens (transaction, account, person, collection, cash, cards, investments, loans, rules); time spans in days/weeks/months/years",
-      "downloadURL": "https://github.com/jasfertoh/finvio-ios-releases/releases/download/v0.1.85/Finvio.ipa",
-      "size": 7330866
+      "version": "0.1.87",
+      "versionDate": "2026-09-28T05:29:00Z",
+      "versionDescription": "- Script to re-sign the .ipa with a development certificate and profile (bundle id from the profile)\n- Header Edit buttons are a pencil icon",
+      "downloadURL": "https://github.com/jasfertoh/finvio-ios-releases/releases/download/v0.1.87/Finvio.ipa",
+      "size": 7330858
     }
   ],
   "news": []

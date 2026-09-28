@@ -26,6 +26,15 @@
       },
       "versions": [
         {
+          "version": "0.1.104",
+          "buildVersion": "104",
+          "date": "2026-09-28T14:06:02Z",
+          "localizedDescription": "- Onboarding: Amex defaults to a credit card; Round 8 done\n- Add welcome tour, first-visit tips, and a haptics pass\n- Reminder suggestions: titles wrap instead of truncating\n- Reminders review fixes: combined notif cap, reorder, row clip, dates, headline\n- Round 8: mascot/icon cancelled\n- Fix: seed preview reminders after loadProfile, not before\n- Reminders: preview data, -open reminders, screen smoke coverage\n- Reminders: notifications, Home attention, Settings, Siri intent\n- Reminders: Plan tab UI (list, suggestions, add/edit sheet) + Bills subscriptions card\n- Reminders: Swift domain port + data layer + parity fixtures\n- Round 8 plan: decisions\n- test.sh: DD env picks the derived-data folder (parallel worktrees)\n- Round 8 plan draft: onboarding, mascot icon, reminders",
+          "downloadURL": "https://github.com/jasfertoh/finvio-ios-releases/releases/download/v0.1.104/Finvio.ipa",
+          "size": 7599905,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "0.1.90",
           "buildVersion": "90",
           "date": "2026-09-28T05:49:30Z",
@@ -197,11 +206,11 @@
           "minOSVersion": "18.0"
         }
       ],
-      "version": "0.1.90",
-      "versionDate": "2026-09-28T05:49:30Z",
-      "versionDescription": "- Two-factor setup waits for Verify; certificate-signed builds offer new versions when opened",
-      "downloadURL": "https://github.com/jasfertoh/finvio-ios-releases/releases/download/v0.1.90/Finvio.ipa",
-      "size": 7343513
+      "version": "0.1.104",
+      "versionDate": "2026-09-28T14:06:02Z",
+      "versionDescription": "- Onboarding: Amex defaults to a credit card; Round 8 done\n- Add welcome tour, first-visit tips, and a haptics pass\n- Reminder suggestions: titles wrap instead of truncating\n- Reminders review fixes: combined notif cap, reorder, row clip, dates, headline\n- Round 8: mascot/icon cancelled\n- Fix: seed preview reminders after loadProfile, not before\n- Reminders: preview data, -open reminders, screen smoke coverage\n- Reminders: notifications, Home attention, Settings, Siri intent\n- Reminders: Plan tab UI (list, suggestions, add/edit sheet) + Bills subscriptions card\n- Reminders: Swift domain port + data layer + parity fixtures\n- Round 8 plan: decisions\n- test.sh: DD env picks the derived-data folder (parallel worktrees)\n- Round 8 plan draft: onboarding, mascot icon, reminders",
+      "downloadURL": "https://github.com/jasfertoh/finvio-ios-releases/releases/download/v0.1.104/Finvio.ipa",
+      "size": 7599905
     }
   ],
   "news": []

@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/jasfertoh/finvio-ios-releases/releases/download/v0.1.90/Finvio-com.tohster.ipa</string>
+					<string>https://github.com/jasfertoh/finvio-ios-releases/releases/download/v0.1.104/Finvio-com.tohster.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -31,7 +31,7 @@
 				<key>bundle-identifier</key>
 				<string>com.tohster</string>
 				<key>bundle-version</key>
-				<string>0.1.90</string>
+				<string>0.1.104</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>

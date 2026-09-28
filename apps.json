@@ -26,6 +26,15 @@
       },
       "versions": [
         {
+          "version": "0.1.90",
+          "buildVersion": "90",
+          "date": "2026-09-28T05:49:30Z",
+          "localizedDescription": "- Two-factor setup waits for Verify; certificate-signed builds offer new versions when opened",
+          "downloadURL": "https://github.com/jasfertoh/finvio-ios-releases/releases/download/v0.1.90/Finvio.ipa",
+          "size": 7343513,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "0.1.89",
           "buildVersion": "89",
           "date": "2026-09-28T05:37:24Z",
@@ -188,11 +197,11 @@
           "minOSVersion": "18.0"
         }
       ],
-      "version": "0.1.89",
-      "versionDate": "2026-09-28T05:37:24Z",
-      "versionDescription": "- Release script: read the profile plist from a pipe correctly",
-      "downloadURL": "https://github.com/jasfertoh/finvio-ios-releases/releases/download/v0.1.89/Finvio.ipa",
-      "size": 7330852
+      "version": "0.1.90",
+      "versionDate": "2026-09-28T05:49:30Z",
+      "versionDescription": "- Two-factor setup waits for Verify; certificate-signed builds offer new versions when opened",
+      "downloadURL": "https://github.com/jasfertoh/finvio-ios-releases/releases/download/v0.1.90/Finvio.ipa",
+      "size": 7343513
     }
   ],
   "news": []

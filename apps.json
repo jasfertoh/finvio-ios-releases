@@ -26,6 +26,15 @@
       },
       "versions": [
         {
+          "version": "0.1.89",
+          "buildVersion": "89",
+          "date": "2026-09-28T05:37:24Z",
+          "localizedDescription": "- Release script: read the profile plist from a pipe correctly",
+          "downloadURL": "https://github.com/jasfertoh/finvio-ios-releases/releases/download/v0.1.89/Finvio.ipa",
+          "size": 7330852,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "0.1.87",
           "buildVersion": "87",
           "date": "2026-09-28T05:29:00Z",
@@ -179,11 +188,11 @@
           "minOSVersion": "18.0"
         }
       ],
-      "version": "0.1.87",
-      "versionDate": "2026-09-28T05:29:00Z",
-      "versionDescription": "- Script to re-sign the .ipa with a development certificate and profile (bundle id from the profile)\n- Header Edit buttons are a pencil icon",
-      "downloadURL": "https://github.com/jasfertoh/finvio-ios-releases/releases/download/v0.1.87/Finvio.ipa",
-      "size": 7330858
+      "version": "0.1.89",
+      "versionDate": "2026-09-28T05:37:24Z",
+      "versionDescription": "- Release script: read the profile plist from a pipe correctly",
+      "downloadURL": "https://github.com/jasfertoh/finvio-ios-releases/releases/download/v0.1.89/Finvio.ipa",
+      "size": 7330852
     }
   ],
   "news": []

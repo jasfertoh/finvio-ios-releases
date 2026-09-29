@@ -26,6 +26,15 @@
       },
       "versions": [
         {
+          "version": "0.1.108",
+          "buildVersion": "108",
+          "date": "2026-09-29T04:24:16Z",
+          "localizedDescription": "- Cash forecast is its own screen (linked from Bills and Cash); Plan has four tabs that fit",
+          "downloadURL": "https://github.com/jasfertoh/finvio-ios-releases/releases/download/v0.1.108/Finvio.ipa",
+          "size": 7609999,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "0.1.107",
           "buildVersion": "107",
           "date": "2026-09-29T04:05:57Z",
@@ -224,11 +233,11 @@
           "minOSVersion": "18.0"
         }
       ],
-      "version": "0.1.107",
-      "versionDate": "2026-09-29T04:05:57Z",
-      "versionDescription": "- Section tabs no longer squeeze: labels stay full size and the bar scrolls (selected tab kept in view) when they don't fit; Bills drops the duplicate Subscriptions heading",
-      "downloadURL": "https://github.com/jasfertoh/finvio-ios-releases/releases/download/v0.1.107/Finvio.ipa",
-      "size": 7604038
+      "version": "0.1.108",
+      "versionDate": "2026-09-29T04:24:16Z",
+      "versionDescription": "- Cash forecast is its own screen (linked from Bills and Cash); Plan has four tabs that fit",
+      "downloadURL": "https://github.com/jasfertoh/finvio-ios-releases/releases/download/v0.1.108/Finvio.ipa",
+      "size": 7609999
     }
   ],
   "news": []

@@ -26,6 +26,15 @@
       },
       "versions": [
         {
+          "version": "0.1.107",
+          "buildVersion": "107",
+          "date": "2026-09-29T04:05:57Z",
+          "localizedDescription": "- Section tabs no longer squeeze: labels stay full size and the bar scrolls (selected tab kept in view) when they don't fit; Bills drops the duplicate Subscriptions heading",
+          "downloadURL": "https://github.com/jasfertoh/finvio-ios-releases/releases/download/v0.1.107/Finvio.ipa",
+          "size": 7604038,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "0.1.106",
           "buildVersion": "106",
           "date": "2026-09-28T22:44:11Z",
@@ -215,11 +224,11 @@
           "minOSVersion": "18.0"
         }
       ],
-      "version": "0.1.106",
-      "versionDate": "2026-09-28T22:44:11Z",
-      "versionDescription": "- Test: match the new income row by id (sample dates follow today)\n- Spending analytics use effective (post-refund/payback) amounts",
-      "downloadURL": "https://github.com/jasfertoh/finvio-ios-releases/releases/download/v0.1.106/Finvio.ipa",
-      "size": 7598230
+      "version": "0.1.107",
+      "versionDate": "2026-09-29T04:05:57Z",
+      "versionDescription": "- Section tabs no longer squeeze: labels stay full size and the bar scrolls (selected tab kept in view) when they don't fit; Bills drops the duplicate Subscriptions heading",
+      "downloadURL": "https://github.com/jasfertoh/finvio-ios-releases/releases/download/v0.1.107/Finvio.ipa",
+      "size": 7604038
     }
   ],
   "news": []

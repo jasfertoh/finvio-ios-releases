@@ -26,6 +26,15 @@
       },
       "versions": [
         {
+          "version": "0.1.109",
+          "buildVersion": "109",
+          "date": "2026-10-02T10:05:53Z",
+          "localizedDescription": "- Launch: wait for an expired saved session to refresh instead of flashing the sign-in screen",
+          "downloadURL": "https://github.com/jasfertoh/finvio-ios-releases/releases/download/v0.1.109/Finvio.ipa",
+          "size": 7612183,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "0.1.108",
           "buildVersion": "108",
           "date": "2026-09-29T04:24:16Z",
@@ -233,11 +242,11 @@
           "minOSVersion": "18.0"
         }
       ],
-      "version": "0.1.108",
-      "versionDate": "2026-09-29T04:24:16Z",
-      "versionDescription": "- Cash forecast is its own screen (linked from Bills and Cash); Plan has four tabs that fit",
-      "downloadURL": "https://github.com/jasfertoh/finvio-ios-releases/releases/download/v0.1.108/Finvio.ipa",
-      "size": 7609999
+      "version": "0.1.109",
+      "versionDate": "2026-10-02T10:05:53Z",
+      "versionDescription": "- Launch: wait for an expired saved session to refresh instead of flashing the sign-in screen",
+      "downloadURL": "https://github.com/jasfertoh/finvio-ios-releases/releases/download/v0.1.109/Finvio.ipa",
+      "size": 7612183
     }
   ],
   "news": []

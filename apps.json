@@ -26,6 +26,15 @@
       },
       "versions": [
         {
+          "version": "0.1.113",
+          "buildVersion": "113",
+          "date": "2026-10-05T05:34:19Z",
+          "localizedDescription": "- Parity with web 05d0448: held payments keep their tag when the expense they settled is deleted/unsplit/unsettled; overdue shares on Home's Needs attention",
+          "downloadURL": "https://github.com/jasfertoh/finvio-ios-releases/releases/download/v0.1.113/Finvio.ipa",
+          "size": 7750754,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "0.1.112",
           "buildVersion": "112",
           "date": "2026-10-04T09:03:13Z",
@@ -251,11 +260,11 @@
           "minOSVersion": "18.0"
         }
       ],
-      "version": "0.1.112",
-      "versionDate": "2026-10-04T09:03:13Z",
-      "versionDescription": "- Shared subscriptions (3/3): shared-with editor, per-person status on bill rows, Record payment sheet, Shared subscriptions block on the person page, held-money note on payments; preview data and smoke tests\n- Shared subscriptions (2/3): stamp shared charges (once each, remembered in automation.seen), prepayment holds, held money pays new owings, recordSettlement held option, price-change proposals\n- Shared subscriptions (1/3): recurring shares and held reimbursements round-trip losslessly; SharedSubs domain port, split-aware bill merges, held money out of income; parity fixtures from the web JS",
-      "downloadURL": "https://github.com/jasfertoh/finvio-ios-releases/releases/download/v0.1.112/Finvio.ipa",
-      "size": 7744646
+      "version": "0.1.113",
+      "versionDate": "2026-10-05T05:34:19Z",
+      "versionDescription": "- Parity with web 05d0448: held payments keep their tag when the expense they settled is deleted/unsplit/unsettled; overdue shares on Home's Needs attention",
+      "downloadURL": "https://github.com/jasfertoh/finvio-ios-releases/releases/download/v0.1.113/Finvio.ipa",
+      "size": 7750754
     }
   ],
   "news": []

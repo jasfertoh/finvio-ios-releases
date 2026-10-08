@@ -26,6 +26,15 @@
       },
       "versions": [
         {
+          "version": "0.1.122",
+          "buildVersion": "122",
+          "date": "2026-10-08T14:20:58Z",
+          "localizedDescription": "- Interest tracking per account: rate/cap/base rate/pay day in prefs, daily accrual, Interest card + page, interest filter, manual marks in prefs (no transaction writes)\n- Duplicates: amounts match to the cent; sheet titled Card payment\n- Duplicates review (merge only on tap, undoable, existing ones seeded as judged) and 'Paid off credit card' (marks the bank row; card side only if asked); Duplicates/CardPayments ports with parity fixtures",
+          "downloadURL": "https://github.com/jasfertoh/finvio-ios-releases/releases/download/v0.1.122/Finvio.ipa",
+          "size": 8059882,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "0.1.118",
           "buildVersion": "118",
           "date": "2026-10-08T07:49:44Z",
@@ -278,11 +287,11 @@
           "minOSVersion": "18.0"
         }
       ],
-      "version": "0.1.118",
-      "versionDate": "2026-10-08T07:49:44Z",
-      "versionDescription": "- Holding stats: last price in the same currency as the average cost\n- Regenerate project for new Investments files\n- Investments: P&L-first summary (today, unrealised, total return), real portfolio value chart with cost line, sortable holdings with P&L and weight, movers, allocation bars; holding detail with labelled P&L and stats grid",
-      "downloadURL": "https://github.com/jasfertoh/finvio-ios-releases/releases/download/v0.1.118/Finvio.ipa",
-      "size": 7856520
+      "version": "0.1.122",
+      "versionDate": "2026-10-08T14:20:58Z",
+      "versionDescription": "- Interest tracking per account: rate/cap/base rate/pay day in prefs, daily accrual, Interest card + page, interest filter, manual marks in prefs (no transaction writes)\n- Duplicates: amounts match to the cent; sheet titled Card payment\n- Duplicates review (merge only on tap, undoable, existing ones seeded as judged) and 'Paid off credit card' (marks the bank row; card side only if asked); Duplicates/CardPayments ports with parity fixtures",
+      "downloadURL": "https://github.com/jasfertoh/finvio-ios-releases/releases/download/v0.1.122/Finvio.ipa",
+      "size": 8059882
     }
   ],
   "news": []

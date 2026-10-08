@@ -26,6 +26,15 @@
       },
       "versions": [
         {
+          "version": "0.1.118",
+          "buildVersion": "118",
+          "date": "2026-10-08T07:49:44Z",
+          "localizedDescription": "- Holding stats: last price in the same currency as the average cost\n- Regenerate project for new Investments files\n- Investments: P&L-first summary (today, unrealised, total return), real portfolio value chart with cost line, sortable holdings with P&L and weight, movers, allocation bars; holding detail with labelled P&L and stats grid",
+          "downloadURL": "https://github.com/jasfertoh/finvio-ios-releases/releases/download/v0.1.118/Finvio.ipa",
+          "size": 7856520,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "0.1.115",
           "buildVersion": "115",
           "date": "2026-10-06T01:23:48Z",
@@ -269,11 +278,11 @@
           "minOSVersion": "18.0"
         }
       ],
-      "version": "0.1.115",
-      "versionDate": "2026-10-06T01:23:48Z",
-      "versionDescription": "- Parity with web aa08f09: card 'Current balance' label + Statement balance field; a typed statement figure overrides the derived one for that cycle only (accounts.statementAnchor)\n- Parity with web 5831885: equal shares get the price-change prompt too (pinned at the old cut, wasEqual; Update turns it back to equal)",
-      "downloadURL": "https://github.com/jasfertoh/finvio-ios-releases/releases/download/v0.1.115/Finvio.ipa",
-      "size": 7761162
+      "version": "0.1.118",
+      "versionDate": "2026-10-08T07:49:44Z",
+      "versionDescription": "- Holding stats: last price in the same currency as the average cost\n- Regenerate project for new Investments files\n- Investments: P&L-first summary (today, unrealised, total return), real portfolio value chart with cost line, sortable holdings with P&L and weight, movers, allocation bars; holding detail with labelled P&L and stats grid",
+      "downloadURL": "https://github.com/jasfertoh/finvio-ios-releases/releases/download/v0.1.118/Finvio.ipa",
+      "size": 7856520
     }
   ],
   "news": []

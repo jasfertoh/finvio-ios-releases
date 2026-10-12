@@ -26,6 +26,15 @@
       },
       "versions": [
         {
+          "version": "0.1.124",
+          "buildVersion": "124",
+          "date": "2026-10-12T13:09:04Z",
+          "localizedDescription": "- Price histories in one request from the shared server cache: portfolio chart fetches all holdings + FX together, single holdings are a batch of one",
+          "downloadURL": "https://github.com/jasfertoh/finvio-ios-releases/releases/download/v0.1.124/Finvio.ipa",
+          "size": 8071160,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "0.1.123",
           "buildVersion": "123",
           "date": "2026-10-09T00:12:50Z",
@@ -296,11 +305,11 @@
           "minOSVersion": "18.0"
         }
       ],
-      "version": "0.1.123",
-      "versionDate": "2026-10-09T00:12:50Z",
-      "versionDescription": "- Account form shows the fields that fit the type: no last 4 digits for investment accounts (optional elsewhere), perks and statement days for cards only, interest for bank and investment cash",
-      "downloadURL": "https://github.com/jasfertoh/finvio-ios-releases/releases/download/v0.1.123/Finvio.ipa",
-      "size": 8064629
+      "version": "0.1.124",
+      "versionDate": "2026-10-12T13:09:04Z",
+      "versionDescription": "- Price histories in one request from the shared server cache: portfolio chart fetches all holdings + FX together, single holdings are a batch of one",
+      "downloadURL": "https://github.com/jasfertoh/finvio-ios-releases/releases/download/v0.1.124/Finvio.ipa",
+      "size": 8071160
     }
   ],
   "news": []

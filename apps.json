@@ -26,6 +26,15 @@
       },
       "versions": [
         {
+          "version": "0.1.125",
+          "buildVersion": "125",
+          "date": "2026-10-12T13:34:17Z",
+          "localizedDescription": "- Charts draw at once from histories saved on disk (per user, wiped on sign-out), then update; a failed fetch keeps the saved copy; history calls run beside the DB",
+          "downloadURL": "https://github.com/jasfertoh/finvio-ios-releases/releases/download/v0.1.125/Finvio.ipa",
+          "size": 8076938,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "0.1.124",
           "buildVersion": "124",
           "date": "2026-10-12T13:09:04Z",
@@ -305,11 +314,11 @@
           "minOSVersion": "18.0"
         }
       ],
-      "version": "0.1.124",
-      "versionDate": "2026-10-12T13:09:04Z",
-      "versionDescription": "- Price histories in one request from the shared server cache: portfolio chart fetches all holdings + FX together, single holdings are a batch of one",
-      "downloadURL": "https://github.com/jasfertoh/finvio-ios-releases/releases/download/v0.1.124/Finvio.ipa",
-      "size": 8071160
+      "version": "0.1.125",
+      "versionDate": "2026-10-12T13:34:17Z",
+      "versionDescription": "- Charts draw at once from histories saved on disk (per user, wiped on sign-out), then update; a failed fetch keeps the saved copy; history calls run beside the DB",
+      "downloadURL": "https://github.com/jasfertoh/finvio-ios-releases/releases/download/v0.1.125/Finvio.ipa",
+      "size": 8076938
     }
   ],
   "news": []

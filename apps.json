@@ -26,6 +26,15 @@
       },
       "versions": [
         {
+          "version": "0.1.138",
+          "buildVersion": "138",
+          "date": "2026-10-14T04:34:20Z",
+          "localizedDescription": "- A new account's Home is three Get started steps (add an account, forward bank emails, add a transaction) instead of a page of $0.00; the card stays, ticking steps off, until there's an account and a transaction. An avatar with no name shows a person instead of an empty circle\n- Design consistency: two button tiers, one layout per kind of sheet, one date format\n- scripts/screens.sh: a PNG of every screen and sheet (light, dark, empty account) for design review, reusing the smoke-test screen list",
+          "downloadURL": "https://github.com/jasfertoh/finvio-ios-releases/releases/download/v0.1.138/Finvio.ipa",
+          "size": 7764122,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "0.1.135",
           "buildVersion": "135",
           "date": "2026-10-14T02:12:40Z",
@@ -332,11 +341,11 @@
           "minOSVersion": "18.0"
         }
       ],
-      "version": "0.1.135",
-      "versionDate": "2026-10-14T02:12:40Z",
-      "versionDescription": "- Updating no longer needs a manual exit: after iOS's install prompt closes, Finvio shows \"Finishing update\u2026\" and goes to the Home Screen so the install starts; the update alert isn't offered again in the meantime",
-      "downloadURL": "https://github.com/jasfertoh/finvio-ios-releases/releases/download/v0.1.135/Finvio.ipa",
-      "size": 7770534
+      "version": "0.1.138",
+      "versionDate": "2026-10-14T04:34:20Z",
+      "versionDescription": "- A new account's Home is three Get started steps (add an account, forward bank emails, add a transaction) instead of a page of $0.00; the card stays, ticking steps off, until there's an account and a transaction. An avatar with no name shows a person instead of an empty circle\n- Design consistency: two button tiers, one layout per kind of sheet, one date format\n- scripts/screens.sh: a PNG of every screen and sheet (light, dark, empty account) for design review, reusing the smoke-test screen list",
+      "downloadURL": "https://github.com/jasfertoh/finvio-ios-releases/releases/download/v0.1.138/Finvio.ipa",
+      "size": 7764122
     }
   ],
   "news": []

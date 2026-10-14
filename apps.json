@@ -26,6 +26,15 @@
       },
       "versions": [
         {
+          "version": "0.1.140",
+          "buildVersion": "140",
+          "date": "2026-10-14T05:28:16Z",
+          "localizedDescription": "- Charts: net worth draws straight lines between month-ends (the smoothed curve invented a peak) with month labels; the cash forecast gets dates and marks its lowest point; interest drops the dashed grid, flags a short month with an icon and a legend entry, not colour alone. VoiceOver reads each chart's points as date and amount\n- Less cut-off text: the Cash rate moves from a badge into the subtitle (names stopped wrapping, masks stopped truncating), account names wrap in Accounts, the Interest page title is just \"Interest\" with the account named in its card, and a shared subscription's row shows what's owed first with a shorter \"Record\" button",
+          "downloadURL": "https://github.com/jasfertoh/finvio-ios-releases/releases/download/v0.1.140/Finvio.ipa",
+          "size": 7777509,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "0.1.138",
           "buildVersion": "138",
           "date": "2026-10-14T04:34:20Z",
@@ -341,11 +350,11 @@
           "minOSVersion": "18.0"
         }
       ],
-      "version": "0.1.138",
-      "versionDate": "2026-10-14T04:34:20Z",
-      "versionDescription": "- A new account's Home is three Get started steps (add an account, forward bank emails, add a transaction) instead of a page of $0.00; the card stays, ticking steps off, until there's an account and a transaction. An avatar with no name shows a person instead of an empty circle\n- Design consistency: two button tiers, one layout per kind of sheet, one date format\n- scripts/screens.sh: a PNG of every screen and sheet (light, dark, empty account) for design review, reusing the smoke-test screen list",
-      "downloadURL": "https://github.com/jasfertoh/finvio-ios-releases/releases/download/v0.1.138/Finvio.ipa",
-      "size": 7764122
+      "version": "0.1.140",
+      "versionDate": "2026-10-14T05:28:16Z",
+      "versionDescription": "- Charts: net worth draws straight lines between month-ends (the smoothed curve invented a peak) with month labels; the cash forecast gets dates and marks its lowest point; interest drops the dashed grid, flags a short month with an icon and a legend entry, not colour alone. VoiceOver reads each chart's points as date and amount\n- Less cut-off text: the Cash rate moves from a badge into the subtitle (names stopped wrapping, masks stopped truncating), account names wrap in Accounts, the Interest page title is just \"Interest\" with the account named in its card, and a shared subscription's row shows what's owed first with a shorter \"Record\" button",
+      "downloadURL": "https://github.com/jasfertoh/finvio-ios-releases/releases/download/v0.1.140/Finvio.ipa",
+      "size": 7777509
     }
   ],
   "news": []

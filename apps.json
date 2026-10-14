@@ -26,6 +26,15 @@
       },
       "versions": [
         {
+          "version": "0.1.145",
+          "buildVersion": "145",
+          "date": "2026-10-14T08:41:58Z",
+          "localizedDescription": "- Faster tab and page opens: owed/overpaid shares take refund totals worked out once instead of rescanning every transaction per item (a person's page with 12k transactions: 1.75 s -> 0.19 s); spending by category, budget suggestions and overdue shared shares are cached per data revision instead of recomputed on every Home/Plan render",
+          "downloadURL": "https://github.com/jasfertoh/finvio-ios-releases/releases/download/v0.1.145/Finvio.ipa",
+          "size": 7818191,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "0.1.144",
           "buildVersion": "144",
           "date": "2026-10-14T07:00:22Z",
@@ -386,11 +395,11 @@
           "minOSVersion": "18.0"
         }
       ],
-      "version": "0.1.144",
-      "versionDate": "2026-10-14T07:00:22Z",
-      "versionDescription": "- Smoother scroll to the top: app animations may run at ProMotion's 120 Hz (CADisableMinimumFrameDurationOnPhone), so the header's compact/full switch no longer drops the display to 60 Hz mid-bounce; the header keeps one height (38 pt) in both states so the scroll inset never shifts",
-      "downloadURL": "https://github.com/jasfertoh/finvio-ios-releases/releases/download/v0.1.144/Finvio.ipa",
-      "size": 7816907
+      "version": "0.1.145",
+      "versionDate": "2026-10-14T08:41:58Z",
+      "versionDescription": "- Faster tab and page opens: owed/overpaid shares take refund totals worked out once instead of rescanning every transaction per item (a person's page with 12k transactions: 1.75 s -> 0.19 s); spending by category, budget suggestions and overdue shared shares are cached per data revision instead of recomputed on every Home/Plan render",
+      "downloadURL": "https://github.com/jasfertoh/finvio-ios-releases/releases/download/v0.1.145/Finvio.ipa",
+      "size": 7818191
     }
   ],
   "news": []

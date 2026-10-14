@@ -26,6 +26,15 @@
       },
       "versions": [
         {
+          "version": "0.1.144",
+          "buildVersion": "144",
+          "date": "2026-10-14T07:00:22Z",
+          "localizedDescription": "- Smoother scroll to the top: app animations may run at ProMotion's 120 Hz (CADisableMinimumFrameDurationOnPhone), so the header's compact/full switch no longer drops the display to 60 Hz mid-bounce; the header keeps one height (38 pt) in both states so the scroll inset never shifts",
+          "downloadURL": "https://github.com/jasfertoh/finvio-ios-releases/releases/download/v0.1.144/Finvio.ipa",
+          "size": 7816907,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "0.1.143",
           "buildVersion": "143",
           "date": "2026-10-14T06:39:53Z",
@@ -377,11 +386,11 @@
           "minOSVersion": "18.0"
         }
       ],
-      "version": "0.1.143",
-      "versionDate": "2026-10-14T06:39:53Z",
-      "versionDescription": "- Frame log on the phone: the frame logger keeps its last 300 lines across launches, readable and shareable from Settings \u2192 About \u2192 Frame log (no Mac needed)",
-      "downloadURL": "https://github.com/jasfertoh/finvio-ios-releases/releases/download/v0.1.143/Finvio.ipa",
-      "size": 7817352
+      "version": "0.1.144",
+      "versionDate": "2026-10-14T07:00:22Z",
+      "versionDescription": "- Smoother scroll to the top: app animations may run at ProMotion's 120 Hz (CADisableMinimumFrameDurationOnPhone), so the header's compact/full switch no longer drops the display to 60 Hz mid-bounce; the header keeps one height (38 pt) in both states so the scroll inset never shifts",
+      "downloadURL": "https://github.com/jasfertoh/finvio-ios-releases/releases/download/v0.1.144/Finvio.ipa",
+      "size": 7816907
     }
   ],
   "news": []

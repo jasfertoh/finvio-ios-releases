@@ -26,6 +26,15 @@
       },
       "versions": [
         {
+          "version": "0.1.135",
+          "buildVersion": "135",
+          "date": "2026-10-14T02:12:40Z",
+          "localizedDescription": "- Updating no longer needs a manual exit: after iOS's install prompt closes, Finvio shows \"Finishing update\u2026\" and goes to the Home Screen so the install starts; the update alert isn't offered again in the meantime",
+          "downloadURL": "https://github.com/jasfertoh/finvio-ios-releases/releases/download/v0.1.135/Finvio.ipa",
+          "size": 7770534,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "0.1.134",
           "buildVersion": "134",
           "date": "2026-10-14T01:48:05Z",
@@ -323,11 +332,11 @@
           "minOSVersion": "18.0"
         }
       ],
-      "version": "0.1.134",
-      "versionDate": "2026-10-14T01:48:05Z",
-      "versionDescription": "- README: where the app keeps data on the phone (cache, outbox, backups), how each is protected, and the outbox-unreadable.json recovery copy\n- README: what the app is, layout, tests, parity, conventions (money stays Double), screenshots and releasing; per-round build notes move to docs/history\n- Statement files that aren't UTF-8 open again (the Latin-1 fallback never ran: try? covered the whole ??); the photo picker label reads the profile on the main actor. No compiler warnings left\n- Parity generators stamp the finance-app commit they ran against (scripts/parity/web-commit.json); check.sh, run by test.sh, warns when the web logic has moved on since\n- Mockups and preview sample data compile into Debug builds only; Release (the sideloaded .ipa) has just the live app\n- Failures are logged with os.Logger (subsystem xyz.finvio.ios) instead of print or dropped: sync refetches, outbox, background scheduling, notifications, backups; an unreadable outbox is kept as outbox-unreadable.json rather than overwritten\n- Weekly backups get file protection: unreadable while the phone is locked, still writable from background refresh\n- test.sh waits for the end of the run: a failing test's \"Caught error:\" no longer stops it early, and success needs the whole-run passed line\n- Live tests skip when no test account is set: test.sh always passes the variables, empty when unset, so check for an empty email too",
-      "downloadURL": "https://github.com/jasfertoh/finvio-ios-releases/releases/download/v0.1.134/Finvio.ipa",
-      "size": 7764693
+      "version": "0.1.135",
+      "versionDate": "2026-10-14T02:12:40Z",
+      "versionDescription": "- Updating no longer needs a manual exit: after iOS's install prompt closes, Finvio shows \"Finishing update\u2026\" and goes to the Home Screen so the install starts; the update alert isn't offered again in the meantime",
+      "downloadURL": "https://github.com/jasfertoh/finvio-ios-releases/releases/download/v0.1.135/Finvio.ipa",
+      "size": 7770534
     }
   ],
   "news": []

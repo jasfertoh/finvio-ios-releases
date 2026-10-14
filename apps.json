@@ -26,6 +26,15 @@
       },
       "versions": [
         {
+          "version": "0.1.141",
+          "buildVersion": "141",
+          "date": "2026-10-14T05:47:52Z",
+          "localizedDescription": "- Empty states: Activity with no transactions offers Add a transaction and Forward bank emails instead of \"Nothing here yet.\"; a new account's Wealth shows a Start tracking list (bank account, credit card, investment account, CPF) instead of a $0.00 net worth and four $0 tiles",
+          "downloadURL": "https://github.com/jasfertoh/finvio-ios-releases/releases/download/v0.1.141/Finvio.ipa",
+          "size": 7791052,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "0.1.140",
           "buildVersion": "140",
           "date": "2026-10-14T05:28:16Z",
@@ -350,11 +359,11 @@
           "minOSVersion": "18.0"
         }
       ],
-      "version": "0.1.140",
-      "versionDate": "2026-10-14T05:28:16Z",
-      "versionDescription": "- Charts: net worth draws straight lines between month-ends (the smoothed curve invented a peak) with month labels; the cash forecast gets dates and marks its lowest point; interest drops the dashed grid, flags a short month with an icon and a legend entry, not colour alone. VoiceOver reads each chart's points as date and amount\n- Less cut-off text: the Cash rate moves from a badge into the subtitle (names stopped wrapping, masks stopped truncating), account names wrap in Accounts, the Interest page title is just \"Interest\" with the account named in its card, and a shared subscription's row shows what's owed first with a shorter \"Record\" button",
-      "downloadURL": "https://github.com/jasfertoh/finvio-ios-releases/releases/download/v0.1.140/Finvio.ipa",
-      "size": 7777509
+      "version": "0.1.141",
+      "versionDate": "2026-10-14T05:47:52Z",
+      "versionDescription": "- Empty states: Activity with no transactions offers Add a transaction and Forward bank emails instead of \"Nothing here yet.\"; a new account's Wealth shows a Start tracking list (bank account, credit card, investment account, CPF) instead of a $0.00 net worth and four $0 tiles",
+      "downloadURL": "https://github.com/jasfertoh/finvio-ios-releases/releases/download/v0.1.141/Finvio.ipa",
+      "size": 7791052
     }
   ],
   "news": []

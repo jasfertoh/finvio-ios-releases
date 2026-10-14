@@ -26,6 +26,15 @@
       },
       "versions": [
         {
+          "version": "0.1.143",
+          "buildVersion": "143",
+          "date": "2026-10-14T06:39:53Z",
+          "localizedDescription": "- Frame log on the phone: the frame logger keeps its last 300 lines across launches, readable and shareable from Settings \u2192 About \u2192 Frame log (no Mac needed)",
+          "downloadURL": "https://github.com/jasfertoh/finvio-ios-releases/releases/download/v0.1.143/Finvio.ipa",
+          "size": 7817352,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "0.1.142",
           "buildVersion": "142",
           "date": "2026-10-14T06:20:48Z",
@@ -368,11 +377,11 @@
           "minOSVersion": "18.0"
         }
       ],
-      "version": "0.1.142",
-      "versionDate": "2026-10-14T06:20:48Z",
-      "versionDescription": "- Frame logger (diagnostic): every late frame is logged to Console (category frames) with the tab, whether a scroll, refresh or sync was running and whether data had just changed, plus a 10-second summary",
-      "downloadURL": "https://github.com/jasfertoh/finvio-ios-releases/releases/download/v0.1.142/Finvio.ipa",
-      "size": 7798397
+      "version": "0.1.143",
+      "versionDate": "2026-10-14T06:39:53Z",
+      "versionDescription": "- Frame log on the phone: the frame logger keeps its last 300 lines across launches, readable and shareable from Settings \u2192 About \u2192 Frame log (no Mac needed)",
+      "downloadURL": "https://github.com/jasfertoh/finvio-ios-releases/releases/download/v0.1.143/Finvio.ipa",
+      "size": 7817352
     }
   ],
   "news": []

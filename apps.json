@@ -26,6 +26,15 @@
       },
       "versions": [
         {
+          "version": "0.1.147",
+          "buildVersion": "147",
+          "date": "2026-10-17T09:42:48Z",
+          "localizedDescription": "- Skipped emails say why: Settings \u2192 Email shows \"Skipped\" with the reason underneath (inbound_emails.skip_reason: an account rule, or a cancelled card purchase that never posted); rows from before it keep \"Skipped by account rule\"",
+          "downloadURL": "https://github.com/jasfertoh/finvio-ios-releases/releases/download/v0.1.147/Finvio.ipa",
+          "size": 7848499,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "0.1.146",
           "buildVersion": "146",
           "date": "2026-10-17T09:25:04Z",
@@ -404,11 +413,11 @@
           "minOSVersion": "18.0"
         }
       ],
-      "version": "0.1.146",
-      "versionDate": "2026-10-17T09:25:04Z",
-      "versionDescription": "- New card detection: Wealth shows \"Card ending 1234\" for each card your bank emails named that no account carries (inbound_emails.detected_*); Add opens New account prefilled (type, last 4, bank) and moves that card's email transactions onto it as one undo; the cross hides it here and on web (prefs.dismissedTips)",
-      "downloadURL": "https://github.com/jasfertoh/finvio-ios-releases/releases/download/v0.1.146/Finvio.ipa",
-      "size": 7845707
+      "version": "0.1.147",
+      "versionDate": "2026-10-17T09:42:48Z",
+      "versionDescription": "- Skipped emails say why: Settings \u2192 Email shows \"Skipped\" with the reason underneath (inbound_emails.skip_reason: an account rule, or a cancelled card purchase that never posted); rows from before it keep \"Skipped by account rule\"",
+      "downloadURL": "https://github.com/jasfertoh/finvio-ios-releases/releases/download/v0.1.147/Finvio.ipa",
+      "size": 7848499
     }
   ],
   "news": []

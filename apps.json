@@ -26,6 +26,15 @@
       },
       "versions": [
         {
+          "version": "0.1.149",
+          "buildVersion": "149",
+          "date": "2026-10-17T10:43:58Z",
+          "localizedDescription": "- Earn rules for all 112 catalogue credit cards (generated from finance-app 17b0cac): reward estimates now cover every card in the picker, including the 87 added in the Oct 2026 refresh",
+          "downloadURL": "https://github.com/jasfertoh/finvio-ios-releases/releases/download/v0.1.149/Finvio.ipa",
+          "size": 7871147,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "0.1.148",
           "buildVersion": "148",
           "date": "2026-10-17T10:20:55Z",
@@ -422,11 +431,11 @@
           "minOSVersion": "18.0"
         }
       ],
-      "version": "0.1.148",
-      "versionDate": "2026-10-17T10:20:55Z",
-      "versionDescription": "- Card catalogue refreshed to Oct 2026 (generated from finance-app eb34520): 112 Singapore credit cards across 15 banks in the New account picker, with current earn rates, fees and minimum income; reward estimates use the updated rates (OCBC 365 cap S$80, Trust Freedom 1.5%/0.5%, UOB PRVI 1.4/2.4 mpd and more)",
-      "downloadURL": "https://github.com/jasfertoh/finvio-ios-releases/releases/download/v0.1.148/Finvio.ipa",
-      "size": 7861870
+      "version": "0.1.149",
+      "versionDate": "2026-10-17T10:43:58Z",
+      "versionDescription": "- Earn rules for all 112 catalogue credit cards (generated from finance-app 17b0cac): reward estimates now cover every card in the picker, including the 87 added in the Oct 2026 refresh",
+      "downloadURL": "https://github.com/jasfertoh/finvio-ios-releases/releases/download/v0.1.149/Finvio.ipa",
+      "size": 7871147
     }
   ],
   "news": []

@@ -26,6 +26,15 @@
       },
       "versions": [
         {
+          "version": "0.1.150",
+          "buildVersion": "150",
+          "date": "2026-10-17T17:31:19Z",
+          "localizedDescription": "- Card picker: search plus bank chips instead of one long menu",
+          "downloadURL": "https://github.com/jasfertoh/finvio-ios-releases/releases/download/v0.1.150/Finvio.ipa",
+          "size": 7886750,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "0.1.149",
           "buildVersion": "149",
           "date": "2026-10-17T10:43:58Z",
@@ -431,11 +440,11 @@
           "minOSVersion": "18.0"
         }
       ],
-      "version": "0.1.149",
-      "versionDate": "2026-10-17T10:43:58Z",
-      "versionDescription": "- Earn rules for all 112 catalogue credit cards (generated from finance-app 17b0cac): reward estimates now cover every card in the picker, including the 87 added in the Oct 2026 refresh",
-      "downloadURL": "https://github.com/jasfertoh/finvio-ios-releases/releases/download/v0.1.149/Finvio.ipa",
-      "size": 7871147
+      "version": "0.1.150",
+      "versionDate": "2026-10-17T17:31:19Z",
+      "versionDescription": "- Card picker: search plus bank chips instead of one long menu",
+      "downloadURL": "https://github.com/jasfertoh/finvio-ios-releases/releases/download/v0.1.150/Finvio.ipa",
+      "size": 7886750
     }
   ],
   "news": []

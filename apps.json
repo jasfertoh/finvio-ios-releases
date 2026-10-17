@@ -26,6 +26,15 @@
       },
       "versions": [
         {
+          "version": "0.1.153",
+          "buildVersion": "153",
+          "date": "2026-10-17T18:33:05Z",
+          "localizedDescription": "- Speed: card statements group transactions by account once",
+          "downloadURL": "https://github.com/jasfertoh/finvio-ios-releases/releases/download/v0.1.153/Finvio.ipa",
+          "size": 7922051,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "0.1.152",
           "buildVersion": "152",
           "date": "2026-10-17T18:29:20Z",
@@ -458,11 +467,11 @@
           "minOSVersion": "18.0"
         }
       ],
-      "version": "0.1.152",
-      "versionDate": "2026-10-17T18:29:20Z",
-      "versionDescription": "- Speed: typing and opening sheets no longer redo ledger-wide work",
-      "downloadURL": "https://github.com/jasfertoh/finvio-ios-releases/releases/download/v0.1.152/Finvio.ipa",
-      "size": 7919987
+      "version": "0.1.153",
+      "versionDate": "2026-10-17T18:33:05Z",
+      "versionDescription": "- Speed: card statements group transactions by account once",
+      "downloadURL": "https://github.com/jasfertoh/finvio-ios-releases/releases/download/v0.1.153/Finvio.ipa",
+      "size": 7922051
     }
   ],
   "news": []

@@ -26,6 +26,15 @@
       },
       "versions": [
         {
+          "version": "0.1.152",
+          "buildVersion": "152",
+          "date": "2026-10-17T18:29:20Z",
+          "localizedDescription": "- Speed: typing and opening sheets no longer redo ledger-wide work",
+          "downloadURL": "https://github.com/jasfertoh/finvio-ios-releases/releases/download/v0.1.152/Finvio.ipa",
+          "size": 7919987,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "0.1.151",
           "buildVersion": "151",
           "date": "2026-10-17T18:17:53Z",
@@ -449,11 +458,11 @@
           "minOSVersion": "18.0"
         }
       ],
-      "version": "0.1.151",
-      "versionDate": "2026-10-17T18:17:53Z",
-      "versionDescription": "- Speed: drop per-item full-ledger scans, cache per revision, save off main",
-      "downloadURL": "https://github.com/jasfertoh/finvio-ios-releases/releases/download/v0.1.151/Finvio.ipa",
-      "size": 7904523
+      "version": "0.1.152",
+      "versionDate": "2026-10-17T18:29:20Z",
+      "versionDescription": "- Speed: typing and opening sheets no longer redo ledger-wide work",
+      "downloadURL": "https://github.com/jasfertoh/finvio-ios-releases/releases/download/v0.1.152/Finvio.ipa",
+      "size": 7919987
     }
   ],
   "news": []

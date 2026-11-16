@@ -26,6 +26,15 @@
       },
       "versions": [
         {
+          "version": "0.1.154",
+          "buildVersion": "154",
+          "date": "2026-11-16T14:24:47Z",
+          "localizedDescription": "- Match the web app's look; updates are a quiet bar with a tap-back notification",
+          "downloadURL": "https://github.com/jasfertoh/finvio-ios-releases/releases/download/v0.1.154/Finvio.ipa",
+          "size": 7934394,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "0.1.153",
           "buildVersion": "153",
           "date": "2026-10-17T18:33:05Z",
@@ -467,11 +476,11 @@
           "minOSVersion": "18.0"
         }
       ],
-      "version": "0.1.153",
-      "versionDate": "2026-10-17T18:33:05Z",
-      "versionDescription": "- Speed: card statements group transactions by account once",
-      "downloadURL": "https://github.com/jasfertoh/finvio-ios-releases/releases/download/v0.1.153/Finvio.ipa",
-      "size": 7922051
+      "version": "0.1.154",
+      "versionDate": "2026-11-16T14:24:47Z",
+      "versionDescription": "- Match the web app's look; updates are a quiet bar with a tap-back notification",
+      "downloadURL": "https://github.com/jasfertoh/finvio-ios-releases/releases/download/v0.1.154/Finvio.ipa",
+      "size": 7934394
     }
   ],
   "news": []
